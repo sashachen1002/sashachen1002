@@ -12,7 +12,7 @@ Data scientist and AI enthusiast pursuing MSc in Management Information Systems 
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://www.arizona.edu/sites/default/files/UA_Block_A_200x200.png" width="50"/>
+      <img src="https://eller.arizona.edu/sites/default/files/styles/az_card_image/public/2023-10/Directory%20Default_0.png.webp?itok=4F821wIM" width="50"/>
     </td>
     <td>
       <strong>Research Assistant</strong><br>
@@ -21,7 +21,7 @@ Data scientist and AI enthusiast pursuing MSc in Management Information Systems 
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TSMC_logo.svg/1200px-TSMC_logo.svg.png" width="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Tsmc.svg/1200px-Tsmc.svg.png" width="50"/>
     </td>
     <td>
       <strong>Data Analyst Intern</strong><br>
@@ -30,7 +30,7 @@ Data scientist and AI enthusiast pursuing MSc in Management Information Systems 
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://logos-world.net/wp-content/uploads/2021/02/DBS-Bank-Logo.png" width="50"/>
+      <img src="https://1000logos.net/wp-content/uploads/2021/05/DBS-Bank-logo.png" width="50"/>
     </td>
     <td>
       <strong>Business Intelligence Analyst Intern</strong><br>
@@ -109,7 +109,7 @@ Python-based web scraping and data transformation system collecting 1.5M+ data p
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/National_Chengchi_University_logo.svg/1200px-National_Chengchi_University_logo.svg.png" width="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/2/20/National_Chengchi_University_Seal.svg" width="50"/>
     </td>
     <td>
       <strong>National Chengchi University</strong><br>
