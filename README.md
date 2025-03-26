@@ -64,6 +64,7 @@ Data scientist and AI enthusiast pursuing MSc in Management Information Systems 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -76,7 +77,6 @@ Data scientist and AI enthusiast pursuing MSc in Management Information Systems 
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/-Scrapy-11AB00?style=flat&logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 🌱 I'm currently learning
 - Advanced NLP techniques for unstructured data analysis
@@ -84,17 +84,17 @@ Data scientist and AI enthusiast pursuing MSc in Management Information Systems 
 - Graph neural networks for complex relationship modeling
 
 ## 📊 Featured Projects
-### Deepfake Detection System
-CNN-based image classification system achieving 88.1% accuracy for detecting manipulated media.
-[Repository Link](#)
+### Deepfake Detection Using CNN-Based Image Classification
+CNN-based image classification system achieving 88.1% accuracy for detecting fake images.
+[Repository Link](https://github.com/sashachen1002/Deepfake-Detection-Using-CNN-Based-Image-Classification)
 
 ### Enterprise Database Management System
-Optimized SQL Server database with 3NF normalization supporting 100K+ transactions.
-[Repository Link](#)
+Developed and optimized SQL Server database with 3NF normalization supporting 100K+ transactions.
+[Repository Link](https://github.com/sashachen1002/Enterprise-Database-Management-System-Development-for-Columbia-Sportswear)
 
-### Automated ETL Pipeline for Competitor Analysis
-Python-based web scraping and data transformation system collecting 1.5M+ data points.
-[Repository Link](#)
+### Emotion-Driven Customer Insights using BERT 
+Cloud-based and scalable customer emotion analysis system enhancing e-commerce decision making.
+[Repository Link](https://github.com/sashachen1002/Emotion-Driven-Customer-Insights-using-BERT)
 
 ## 📚 Education
 <table>
