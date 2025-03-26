@@ -1,5 +1,9 @@
 # Hi there, I'm Yu-Chi (Sasha) Chen 👋
 
+<div align="center">
+  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="150px"/>
+</div>
+
 ## 🚀 About Me
 Data scientist and AI enthusiast pursuing MSc in Management Information Systems at the University of Arizona. I blend strong technical expertise with business acumen to deliver data-driven solutions for real-world problems.
 
