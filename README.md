@@ -1,5 +1,4 @@
-# <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50px"/> Hi there, I'm YuChi Chen
-
+# Hi there, I'm YuChi Chen 👋
 
 ## 🚀 About Me
 Data scientist and AI enthusiast pursuing MSc in Management Information Systems at the University of Arizona. I blend strong technical expertise with business acumen to deliver data-driven solutions for real-world problems.
