@@ -100,7 +100,7 @@ Python-based web scraping and data transformation system collecting 1.5M+ data p
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/university_of_arizona_logo_icon_151894.png" width="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Arizona_Wildcats_logo.svg/1200px-Arizona_Wildcats_logo.svg.png" width="50"/>
     </td>
     <td>
       <strong>University of Arizona</strong><br>
