@@ -3,11 +3,6 @@
 ## 🚀 About Me
 Data scientist and AI enthusiast pursuing MSc in Management Information Systems at the University of Arizona. I blend strong technical expertise with business acumen to deliver data-driven solutions for real-world problems.
 
-## 🔭 I'm currently working on
-- Graph foundation models using LLM and graph-text contrastive learning for supplier relationship analytics
-- Deep learning models for multimedia classification and fraud detection
-- Cloud-native ETL pipelines for large-scale data processing
-
 ## 💼 Professional Experience
 <table>
   <tr>
@@ -121,7 +116,6 @@ Cloud-based and scalable customer emotion analysis system enhancing e-commerce d
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sashaycc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuchichen1002/)
-[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/sasha.chen4736/vizzes)
 
 ## 📈 GitHub Stats
 ![YuChi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
