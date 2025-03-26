@@ -1,4 +1,4 @@
-# Hi there, I'm YuChi Chen <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50px"/>
+# <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50px"/> Hi there, I'm YuChi Chen
 
 
 ## 🚀 About Me
